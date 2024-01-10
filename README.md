@@ -13,5 +13,20 @@ Junior QA Analyst
 
 ### Projects
 - BCCAT
-- Heart Disease Prediction
+- Predictive Analytics (Heart Disease Prediction)
+- Classification
+- Regression
+- Deep Learning
 - National Museum Website
+
+
+### Skills
+Programming:
+  Data Science: Python, R, NumPy, Pandas, scikit-learn, MS Excel
+  Visualization: PowerBI, Tableau, Seaborn, matplotlib
+  Others: git
+  Basics: HTML, JS, CSS
+Database: MYSQL
+  
+Technical 
+Machine Learning : Classification, Regression, Feature Engineering, Data Scraping, Dimensionality Reduction
