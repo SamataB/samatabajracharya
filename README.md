@@ -13,6 +13,7 @@ Junior QA Analyst
 
 ### Projects
 - BCCAT
+- Bioimage Analysis (Finding efficacy of Viral Therapy)
 - Predictive Analytics (Heart Disease Prediction)
 - Classification
 - Regression
@@ -30,3 +31,5 @@ Database: MYSQL
   
 Technical 
 Machine Learning : Classification, Regression, Feature Engineering, Data Scraping, Dimensionality Reduction
+
+
